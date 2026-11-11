@@ -7356,7 +7356,7 @@ const I18N = (() => {
 
     return {
         en: {
-            "app.name": "uBootKit",
+            "app.name": "JDAX1800 PRO",
             "nav.overview": "Overview",
             "nav.sysinfo": "System Info",
             "nav.syslog": "System Log",
@@ -7696,7 +7696,7 @@ const I18N = (() => {
             "unknown": "Unknown"
         },
         "zh-cn": {
-            "app.name": "uBootKit",
+            "app.name": "JDAX1800 PRO",
             "nav.overview": "概览",
             "nav.sysinfo": "系统信息",
             "nav.syslog": "系统日志",
